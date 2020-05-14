@@ -1,4 +1,4 @@
-![logo](https://i.imgur.com/ybggtaI.jpg)﻿
+![logo](https://i.imgur.com/VGt1tOh.jpg)﻿
 
  # Loli Comunista BOT (Discord Music Bot)
  > Loli-Comunista-BOT é um Bot de Música do Discord criado com o discord.js.
@@ -25,7 +25,7 @@ Editar o arquivo `config.json` e preencher os valores:
 {
 	"TOKEN": "",
 	"YOUTUBE_API_KEY": "",
-	"MAX_PLAYLIST_SIZE": 10,
+	"MAX_PLAYLIST_SIZE": 50,
 	"PREFIX": "!"
 }
 ```
